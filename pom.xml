@@ -255,14 +255,14 @@
 					<wtpmanifest>false</wtpmanifest>
 					<wtpapplicationxml>true</wtpapplicationxml>
 					<wtpversion>2.0</wtpversion>
-            		<additionalProjectnatures>
+					<additionalProjectnatures>
 						<projectnature>org.maven.ide.eclipse.maven2Nature</projectnature>
 					</additionalProjectnatures>
-        			<additionalProjectFacets>
+					<additionalProjectFacets>
 						<jst.java>${props.compile.jdk.source}</jst.java>
 						<jst.web>3.0</jst.web>
-        			</additionalProjectFacets>
-            		<!-- Set Eclipse project to UTF-8 -->
+					</additionalProjectFacets>
+            			<!-- Set Eclipse project to UTF-8 -->
 		            <additionalConfig>
 						<file>
 							<name>.settings/org.eclipse.core.resources.prefs</name>
@@ -270,7 +270,7 @@
 								<![CDATA[eclipse.preferences.version=1${line.separator}encoding/<project>=${project.build.sourceEncoding}${line.separator}]]>
 							</content>
 						</file>
-		            </additionalConfig>
+					</additionalConfig>
 				</configuration>
 			</plugin>
 		</plugins>
