@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.triadworks.myproject</groupId>
-	<artifactId>myproject</artifactId>
+	<artifactId>vraptor-blank-project</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>VRaptor Blank Project</name>
