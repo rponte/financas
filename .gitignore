@@ -1,6 +1,11 @@
+bin/
+build/
+!etc/lib/build
+.gradle/
+WebContent/WEB-INF/classes/
 *.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+.DS_Store
+target/
+.classpath
+.project
+.settings
