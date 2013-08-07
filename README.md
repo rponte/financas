@@ -41,4 +41,18 @@ $ mvn eclipse:clean eclipse:eclipse
 
 4. Importe o projeto no Eclipse
 
-Pronto! Agora é possível desenvolver uma aplicação utilizando esta arquitetura base. Algumas classes já existem no projeto para auxiliar o desenvolvimento - estas classes (controllers, daos, services, jsps etc) são provenientes do projeto [vraptor-issuetracker-mvn-project](https://github.com/rponte/vraptor-issuetracker-mvn-project).
+Pronto! Agora é possível desenvolver uma aplicação utilizando esta arquitetura base. Algumas classes e artefatos já existem no projeto para auxiliar o desenvolvimento - estas classes e artefatos (controllers, daos, services, jsps etc) são provenientes do projeto [vraptor-issuetracker-mvn-project](https://github.com/rponte/vraptor-issuetracker-mvn-project).
+
+Mais informações
+----------------
+
+**TriadWorks**
+- http://www.triadworks.com.br
+- http://www.triadworks.com.br/servico.html
+
+**Rafael Ponte**
+- Meu [blog](http://www.rponte.com.br)
+- Meu Twitter [@rponte](http://twitter.com/#!/rponte)
+
+**JavaCE Group**
+- https://groups.google.com/forum/?fromgroups#!forum/javace
