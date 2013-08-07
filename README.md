@@ -1,7 +1,7 @@
 VRaptor Blank Project
 =====================
 
-Projeto Java webcom arquitetura base para aplicações com VRaptor, Spring e Hibernate/JPA.
+Projeto Java web com arquitetura base para aplicações com VRaptor, Spring e Hibernate/JPA.
 
 Configurando o Projeto
 -----------------------
@@ -34,7 +34,7 @@ $ cd myproject
 <name>My Project</name>
 ```
 
-3. Configure o projeto para ser importado pelo Eclipse (os arquivos `.project`, `.classpath` e `.settings`). Pode demorar um pouco ao executar este comando pela primeira vez, pois o Maven precisará baixar todas as dependências do projeto.
+3. Configure o projeto para ser importado pelo Eclipse (os arquivos `.project`, `.classpath` e `.settings` serão criados). Pode demorar um pouco ao executar este comando pela primeira vez, pois o Maven precisará baixar todas as dependências do projeto.
 ```BASH
 $ mvn eclipse:clean eclipse:eclipse
 ```
