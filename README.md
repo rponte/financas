@@ -39,7 +39,7 @@ $ cd myproject
 $ mvn eclipse:clean eclipse:eclipse
 ```
 
-4. Importe o projeto no Eclipse
+4. Importe o projeto no [Eclipse Java EE IDE for Web Developers (Kepler)](http://www.eclipse.org/downloads/) ou superior;
 
 Pronto! Agora é possível desenvolver uma aplicação utilizando esta arquitetura base. Algumas classes e artefatos já existem no projeto para auxiliar o desenvolvimento - estas classes e artefatos (controllers, daos, services, jsps etc) são provenientes do projeto [vraptor-issuetracker-mvn-project](https://github.com/rponte/vraptor-issuetracker-mvn-project).
 
