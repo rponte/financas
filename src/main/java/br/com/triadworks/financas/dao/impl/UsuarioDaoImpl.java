@@ -1,4 +1,4 @@
-package br.com.triadworks.issuetracker.dao.impl;
+package br.com.triadworks.financas.dao.impl;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
-import br.com.triadworks.issuetracker.dao.UsuarioDao;
-import br.com.triadworks.issuetracker.model.Usuario;
+import br.com.triadworks.financas.dao.UsuarioDao;
+import br.com.triadworks.financas.model.Usuario;
 
 @Repository("usuarioDao")
 @Transactional

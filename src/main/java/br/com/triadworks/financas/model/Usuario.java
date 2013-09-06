@@ -1,4 +1,4 @@
-package br.com.triadworks.issuetracker.model;
+package br.com.triadworks.financas.model;
 
 import java.io.Serializable;
 

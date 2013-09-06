@@ -16,7 +16,7 @@
 	<!-- Activates scanning of @Autowired -->
 	<context:annotation-config />
 	<!-- Scans for @Repository, @Service and @Component -->
-	<context:component-scan base-package="br.com.triadworks.issuetracker" />
+	<context:component-scan base-package="br.com.triadworks.financas" />
 	<!-- Enables @Transactional support -->
 	<tx:annotation-driven />
 	

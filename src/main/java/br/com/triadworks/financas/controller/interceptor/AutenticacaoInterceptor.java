@@ -1,4 +1,4 @@
-package br.com.triadworks.issuetracker.controller.interceptor;
+package br.com.triadworks.financas.controller.interceptor;
 
 import java.util.Arrays;
 
@@ -9,8 +9,8 @@ import br.com.caelum.vraptor.core.InterceptorStack;
 import br.com.caelum.vraptor.interceptor.Interceptor;
 import br.com.caelum.vraptor.resource.ResourceMethod;
 import br.com.caelum.vraptor.validator.ValidationMessage;
-import br.com.triadworks.issuetracker.controller.LoginController;
-import br.com.triadworks.issuetracker.controller.UsuarioWeb;
+import br.com.triadworks.financas.controller.LoginController;
+import br.com.triadworks.financas.controller.UsuarioWeb;
 
 @Intercepts
 public class AutenticacaoInterceptor implements Interceptor {

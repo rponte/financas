@@ -1,4 +1,4 @@
-package br.com.triadworks.issuetracker.controller;
+package br.com.triadworks.financas.controller;
 
 import br.com.caelum.vraptor.Get;
 import br.com.caelum.vraptor.Resource;

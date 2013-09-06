@@ -1,8 +1,8 @@
-package br.com.triadworks.issuetracker.dao;
+package br.com.triadworks.financas.dao;
 
 import java.util.List;
 
-import br.com.triadworks.issuetracker.model.Usuario;
+import br.com.triadworks.financas.model.Usuario;
 
 public interface UsuarioDao {
 

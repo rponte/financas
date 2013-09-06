@@ -1,10 +1,10 @@
-package br.com.triadworks.issuetracker.service;
+package br.com.triadworks.financas.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.triadworks.issuetracker.dao.UsuarioDao;
-import br.com.triadworks.issuetracker.model.Usuario;
+import br.com.triadworks.financas.dao.UsuarioDao;
+import br.com.triadworks.financas.model.Usuario;
 
 @Service("autenticador")
 public class AutenticadorImpl implements Autenticador {

@@ -1,4 +1,4 @@
-package br.com.triadworks.issuetracker.controller;
+package br.com.triadworks.financas.controller;
 
 import br.com.caelum.vraptor.Get;
 import br.com.caelum.vraptor.Post;
@@ -6,8 +6,8 @@ import br.com.caelum.vraptor.Resource;
 import br.com.caelum.vraptor.Result;
 import br.com.caelum.vraptor.Validator;
 import br.com.caelum.vraptor.validator.ValidationMessage;
-import br.com.triadworks.issuetracker.model.Usuario;
-import br.com.triadworks.issuetracker.service.Autenticador;
+import br.com.triadworks.financas.model.Usuario;
+import br.com.triadworks.financas.service.Autenticador;
 
 @Resource
 public class LoginController {

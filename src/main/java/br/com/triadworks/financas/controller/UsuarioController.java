@@ -1,4 +1,4 @@
-package br.com.triadworks.issuetracker.controller;
+package br.com.triadworks.financas.controller;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import br.com.caelum.vraptor.Result;
 import br.com.caelum.vraptor.Validator;
 import br.com.caelum.vraptor.validator.ValidationMessage;
 import br.com.caelum.vraptor.view.Results;
-import br.com.triadworks.issuetracker.dao.UsuarioDao;
-import br.com.triadworks.issuetracker.model.Usuario;
+import br.com.triadworks.financas.dao.UsuarioDao;
+import br.com.triadworks.financas.model.Usuario;
 
 @Resource
 public class UsuarioController {

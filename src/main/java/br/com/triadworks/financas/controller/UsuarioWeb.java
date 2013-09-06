@@ -1,10 +1,10 @@
-package br.com.triadworks.issuetracker.controller;
+package br.com.triadworks.financas.controller;
 
 import java.io.Serializable;
 
 import br.com.caelum.vraptor.ioc.Component;
 import br.com.caelum.vraptor.ioc.SessionScoped;
-import br.com.triadworks.issuetracker.model.Usuario;
+import br.com.triadworks.financas.model.Usuario;
 
 @Component
 @SessionScoped
