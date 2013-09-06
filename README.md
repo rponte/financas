@@ -1,5 +1,7 @@
-VRaptor Blank Project
-=====================
+financas
+========
+
+Projeto de finanças para contas a pagar e receber. O objetivo é entender melhor este domínio.
 
 Projeto Java web com arquitetura base para aplicações com VRaptor, Spring e Hibernate/JPA.
 
