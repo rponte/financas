@@ -2,17 +2,17 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>br.com.triadworks.myproject</groupId>
-	<artifactId>vraptor-blank-project</artifactId>
+	<groupId>br.com.triadworks.financas</groupId>
+	<artifactId>financas</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>VRaptor Blank Project</name>
+	<name>Financas Project</name>
 
 	<properties>
 		<org.springframework.version>3.1.4.RELEASE</org.springframework.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<props.compile.jdk.source>1.7</props.compile.jdk.source>
-		<props.compile.jdk.target>1.7</props.compile.jdk.target>
+		<props.compile.jdk.source>1.6</props.compile.jdk.source>
+		<props.compile.jdk.target>1.6</props.compile.jdk.target>
 	</properties>
 
 	<dependencies>
