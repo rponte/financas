@@ -231,9 +231,9 @@
 	</dependencies>
 
 	<build>
-		<finalName>issuetracker</finalName>
+		<finalName>financas</finalName>
 		<plugins>
-			<!-- Set to compile using JDK 7 -->
+			<!-- Set to compile using JDK 6 -->
 		    <plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>

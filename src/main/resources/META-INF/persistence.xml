@@ -6,6 +6,6 @@
 	version="2.0">
 	<!-- Não é necessário alterar esse arquivo. Todas as configurações podem
 	ser feitas no Spring. -->
-	<persistence-unit name="IssueTrackerPU">
+	<persistence-unit name="FinancasPU">
 	</persistence-unit>
 </persistence>

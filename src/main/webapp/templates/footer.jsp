@@ -2,6 +2,6 @@
 
 		<footer>
 			<div class="container">
-				<p><a href="${ctx}">Issue Tracker</a> - Registrando Bugs e Features para toda a vida.</p>
+				<p><a href="${ctx}">Finanças</a> - Contas à Pagar e Receber.</p>
 			</div>
 		</footer>
